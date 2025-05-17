@@ -1,5 +1,5 @@
-import 'package:elevemente_app/components/pagina_inicial_componentes/calendario.dart';
-import 'package:elevemente_app/components/pagina_inicial_componentes/pacientes_do_dia.dart';
+import 'package:ellevemente_app/components/pagina_inicial_componentes/calendariosemanal.dart';
+import 'package:ellevemente_app/components/pagina_inicial_componentes/pacientes_do_dia.dart';
 import 'package:flutter/material.dart';
 
 class PaginaInicial extends StatelessWidget {

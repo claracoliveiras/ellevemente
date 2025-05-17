@@ -7,7 +7,10 @@ class CalendarioPagInicial extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       decoration: BoxDecoration(color: Colors.white),
-      child: Text('Calendário'),
+      child: Text(
+        'Calendário semanal',
+        style: TextStyle(fontWeight: FontWeight.w600, fontSize: 16),
+      ),
     );
   }
 }
