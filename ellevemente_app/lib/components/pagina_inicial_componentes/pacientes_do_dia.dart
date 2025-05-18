@@ -6,7 +6,7 @@ class PacientesDoDia extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: EdgeInsets.all(10),
+      padding: EdgeInsets.only(left: 20, right: 20, top: 20, bottom: 20),
       width: 400,
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(10),
