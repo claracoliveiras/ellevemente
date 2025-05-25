@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'pages/pacientes.dart';
-import 'pages/pagina_inicial.dart';
-import 'pages/calendario.dart';
+import 'pacientes/pacientes.dart';
+import 'pagina_inicial/pagina_inicial.dart';
+import 'calendario/calendario.dart';
 
 void main() {
   runApp(const MyApp());
